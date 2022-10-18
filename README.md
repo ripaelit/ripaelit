@@ -3,7 +3,7 @@
   Welcome to my Github!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<h2 align="center">I am a Web & Blockchain Developer.</h2>
+<h2 align="center">Full-stack Developer.</h2>
 <p align="center">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
 </p>
