@@ -4,9 +4,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <h2 align="center">Full-stack Developer.</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="380px" max-width="400px" width="350px" align="right"> <br>
-</p>
+
 
 <h4 align="center">What does a back-end developer do?
 Back-end developers build, maintain, and debug the back-end that runs an application. As you might imagine, this is a large responsibility that can be broken down into many tasks. Depending on the company, a back-end developer will be responsible for some, most, or all of the following:
