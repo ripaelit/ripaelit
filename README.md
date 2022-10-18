@@ -25,7 +25,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ripaelit&hide=PHP,html,c&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ripaelit&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-<p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=ripaelit&column=7&theme=onedark"/>
-</p>
-
