@@ -16,16 +16,16 @@
 
 <h3 align="center">I am available now and can start right now.</h3>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=practaldev&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=ripaelit&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true"/>
 <br/>
 
 
-![PractalDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=practaldev&theme=radical&hide_border=true&show_icons=true)
+![ripaelit's GitHub stats](https://github-readme-stats.vercel.app/api?username=ripaelit&theme=radical&hide_border=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=practaldev&hide=PHP,html,c&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=practaldev&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=ripaelit&hide=PHP,html,c&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ripaelit&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 <p align="center" style="margin-bottom: 10px;">
-    <img src="https://github-profile-trophy.vercel.app/?username=practaldev&column=7&theme=onedark"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ripaelit&column=7&theme=onedark"/>
 </p>
 
