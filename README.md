@@ -1,9 +1,9 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Welcome to my Github!
+  Welcome to my GitHub!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<h2 align="center">Full-stack Developer.</h2>
+<h2 align="center">Fullstack Developer.</h2>
 
 
 <h4 align="center">What does a back-end developer do?
